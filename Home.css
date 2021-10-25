@@ -1186,12 +1186,12 @@
 }
 
 .u-section-5 .u-container-layout-1 {
-  padding: 52px 46px 60px;
+  padding: 51px 46px;
 }
 
 .u-section-5 .u-text-1 {
   font-weight: 700;
-  margin: 19px 547px 0 23px;
+  margin: 18px 547px 0 23px;
 }
 
 .u-section-5 .u-btn-1 {
@@ -1243,7 +1243,7 @@
 .u-section-5 .u-text-2 {
   font-family: "Abhaya Libre";
   font-size: 1.25rem;
-  margin: -170px 500px 0 23px;
+  margin: -169px 500px 0 23px;
 }
 
 .u-section-5 .u-btn-3 {
@@ -1281,8 +1281,8 @@
   }
 
   .u-section-5 .u-text-2 {
-    margin-right: 534px;
-    margin-left: 11px;
+    margin-top: -57px;
+    margin-right: 475px;
   }
 }
 
@@ -1313,8 +1313,7 @@
   }
 
   .u-section-5 .u-text-2 {
-    margin-right: 357px;
-    margin-left: 0;
+    margin-right: 287px;
   }
 }
 
@@ -1323,20 +1322,13 @@
     min-height: 674px;
   }
 
-  .u-section-5 .u-group-1 {
-    min-height: 531px;
-    width: auto;
-    margin-right: initial;
-    margin-left: initial;
-  }
-
   .u-section-5 .u-container-layout-1 {
     padding: 0 23px;
   }
 
   .u-section-5 .u-text-1 {
     width: auto;
-    margin-top: 48px;
+    margin-top: 46px;
     margin-right: 210px;
     margin-left: 20px;
   }
@@ -1358,10 +1350,8 @@
   }
 
   .u-section-5 .u-text-2 {
-    width: auto;
-    margin-top: 8px;
-    margin-right: 210px;
-    margin-left: 20px;
+    margin-top: 125px;
+    margin-right: 147px;
   }
 }
 
@@ -1376,7 +1366,7 @@
   }
 
   .u-section-5 .u-text-1 {
-    margin-top: 333px;
+    margin-top: 331px;
     margin-right: 71px;
     margin-left: 0;
   }
@@ -1396,7 +1386,6 @@
   }
 
   .u-section-5 .u-text-2 {
-    margin-right: 17px;
-    margin-left: 0;
+    margin-right: 0;
   }
 }

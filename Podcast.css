@@ -454,7 +454,7 @@
 
 .u-section-4 .u-text-1 {
   font-weight: 700;
-  margin: 19px 547px 0 23px;
+  margin: 18px 547px 0 23px;
 }
 
 .u-section-4 .u-btn-1 {
@@ -506,7 +506,7 @@
 .u-section-4 .u-text-2 {
   font-family: "Abhaya Libre";
   font-size: 1.25rem;
-  margin: -170px 500px 0 23px;
+  margin: -169px 500px 0 23px;
 }
 
 .u-section-4 .u-btn-3 {
@@ -544,8 +544,8 @@
   }
 
   .u-section-4 .u-text-2 {
-    margin-right: 534px;
-    margin-left: 11px;
+    margin-top: -54px;
+    margin-right: 475px;
   }
 }
 
@@ -576,8 +576,7 @@
   }
 
   .u-section-4 .u-text-2 {
-    margin-right: 357px;
-    margin-left: 0;
+    margin-right: 287px;
   }
 }
 
@@ -599,7 +598,7 @@
 
   .u-section-4 .u-text-1 {
     width: auto;
-    margin-top: 48px;
+    margin-top: 47px;
     margin-right: 210px;
     margin-left: 20px;
   }
@@ -621,10 +620,8 @@
   }
 
   .u-section-4 .u-text-2 {
-    width: auto;
-    margin-top: 8px;
-    margin-right: 210px;
-    margin-left: 20px;
+    margin-top: 124px;
+    margin-right: 147px;
   }
 }
 
@@ -639,7 +636,7 @@
   }
 
   .u-section-4 .u-text-1 {
-    margin-top: 333px;
+    margin-top: 332px;
     margin-right: 71px;
     margin-left: 0;
   }
@@ -659,7 +656,6 @@
   }
 
   .u-section-4 .u-text-2 {
-    margin-right: 17px;
-    margin-left: 0;
+    margin-right: 0;
   }
 }
